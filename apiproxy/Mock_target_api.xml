@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Mock_target_api">
+    <Basepaths>/mock_target_api</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1642091130572</CreatedAt>
+    <CreatedBy>monikab@sidgs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Mock_target_api</DisplayName>
+    <LastModifiedAt>1644442033912</LastModifiedAt>
+    <LastModifiedBy>srinivasao@sidgs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:2f0ac91c0b6d0901346e5f13f2dd57e80200348b7176ad15234dc253994dc1953e04642a4e22169c137407fd6d963572888587a018a8c8137c9073bf1ae6e749:us-east-1</ManifestVersion>
+    <Policies>
+        <Policy>Service-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

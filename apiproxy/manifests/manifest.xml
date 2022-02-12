@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Service-Callout-1" version="SHA-512:99b2b8d7d5773af9fe3143a800c7a1613ab0894c1e8b95ca1f40f3c77493a4df77aa5a9fec9a767a4766026a8ab8c4a40ed8268adb5a430907fc180053e73aeb"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:510fdafeed43a0a2bea3dbc13ec37805647f128698b53dfd0bb2c4fb4b6c48ac9f1ca7557f1b37a6d3a08a847e905da4deeb11b84a43200f93efbf1991900403"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:998e06f9d00974f56907004303556babf670152bb691e865c9354b5d5eabcbc951095841d259b30992860a8c8424d9353fa22470cfb91db5e243b6dfd5ff9f2f"/>
+    </TargetEndpoints>
+</Manifest>
