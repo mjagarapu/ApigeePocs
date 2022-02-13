@@ -14,7 +14,7 @@
         <Response/>
     </PostFlow>
     <HTTPProxyConnection>
-        <BasePath>/mock_target_api2</BasePath>
+        <BasePath>/mock_target_api3</BasePath>
         <VirtualHost>secure</VirtualHost>
         <VirtualHost>default</VirtualHost>
     </HTTPProxyConnection>
